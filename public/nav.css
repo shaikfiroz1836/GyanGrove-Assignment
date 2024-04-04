@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   box-sizing: border-box;
+}
+.navbar-BookUs{
+    width: 100%;
+    margin: auto;
+}
+.BookUs-Nav{
+    width: 85%;
+    margin: auto;
+    padding-top: 10px;
+    display: flex;
+}
+.BookUs{
+    width: 20%;
+}
+.categories{
+    width: 13%;
+}
+.Search_Bar{
+    width:42%;
+}
+.Fav{
+    margin-left: 5%;
+    width: 20%;
+}
+.Now-a{
+    color: #CE2222;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+.Now-a:hover{
+    color: #CE2222;
+    text-decoration: none;
+}
+#map_fa{
+    margin-right: 10px;
+    color: #B0B9BE;
+    font-weight: 800;
+}
+#fa_arrow{
+    margin-left: 10px;
+    color: #B0B9BE;
+}
+.Now_marker{
+    font-size: 12px;
+}
+.span_mum{
+    color: #596064;
+}
+.btn-bar{
+    color: white;
+    background-color: black;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+#fa_bars{
+    margin-right: 10px;
+}
+input[type=search]{
+    width: 100%;
+    border: 1.5px solid #B0B9BE;
+    border-radius: 5px;
+    padding: 8px 15px;
+} 
+.label_search{
+    margin: -25px;
+    color: #B0B9BE;
+}
+.fav_Btn_one{
+    outline: none;
+    border: none;
+    background-color: transparent;
+    color: #596064;
+    margin-right: 15px;
+}
+#fa_love{
+    margin-right: 10px;
+    color: #B0B9BE;
+}
+.signIn_btn{
+    color: #596064;
+    padding: 5px 10px 7px 10px ;
+    border: 1px solid #596064;
+    border-radius: 5px;
+    background-color: transparent;
+}
+.span_signIn_one{
+    display: none;
+}
+.div_btn{
+    display: flex;
+    width: 100%;
+}
